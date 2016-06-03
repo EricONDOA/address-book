@@ -1,0 +1,98 @@
+{
+  "contacts":[
+    {
+      "id": 1,
+      "firstname": "Rose",
+      "surname": "Sanford",
+      "gender": "male",
+      "company": "PREMIANT",
+      "email": "rosesanford@premiant.com",
+      "phone": "+1 (965) 567-3538",
+      "address": "294 Garnet Street, Carrizo, Nevada, 4018",
+      "about": "Velit cupidatat laborum consequat ipsum irure. Eiusmod eu esse ipsum amet excepteur id aute incididunt nulla. Pariatur in velit pariatur culpa commodo culpa enim incididunt adipisicing aliquip consequat Lorem. Culpa amet nostrud laboris nulla ad labore proident magna nisi.\r\n",
+      "registered": "2014-07-20T10:51:23 -02:00",
+      "group": 2
+    },
+    {
+      "id": 2,
+      "firstname": "Myers",
+      "surname": "Summers",
+      "gender": "male",
+      "company": "MAZUDA",
+      "email": "myerssummers@mazuda.com",
+      "phone": "+1 (973) 419-3272",
+      "address": "543 Baughman Place, Epworth, Ohio, 7519",
+      "about": "Reprehenderit commodo dolore qui culpa non. Consectetur ullamco Lorem deserunt officia magna sit ullamco eu qui velit tempor. Officia enim fugiat mollit velit magna occaecat in aliquip.\r\n",
+      "registered": "2014-10-24T07:48:46 -02:00",
+      "group": 1
+    },
+    {
+      "id": 3,
+      "firstname": "Theresa",
+      "surname": "Alvarez",
+      "gender": "female",
+      "company": "LEXICONDO",
+      "email": "theresaalvarez@lexicondo.com",
+      "phone": "+1 (837) 579-3562",
+      "address": "488 Main Street, Cowiche, Wyoming, 1408",
+      "about": "Non proident pariatur labore ad aliqua magna laborum ut. Fugiat minim officia officia sit pariatur et. Enim cillum consectetur Lorem commodo ea eu aliquip est ut amet cupidatat ex. Sint tempor pariatur dolore occaecat voluptate ea aliquip sunt. Sint occaecat id mollit veniam Lorem ad magna do anim adipisicing dolor dolor non amet. Incididunt enim irure enim enim commodo excepteur cillum voluptate esse. Do excepteur laboris qui dolore eiusmod.\r\n",
+      "registered": "2015-07-14T06:57:38 -02:00",
+      "group": 1
+    },
+    {
+      "id": 4,
+      "firstname": "Sheri",
+      "surname": "Sawyer",
+      "gender": "female",
+      "company": "SIGNITY",
+      "email": "sherisawyer@signity.com",
+      "phone": "+1 (822) 471-2462",
+      "address": "565 Christopher Avenue, Crumpler, Marshall Islands, 6987",
+      "about": "Eu non veniam deserunt nisi ea ipsum culpa aute adipisicing culpa amet ipsum. Sint commodo proident veniam dolore voluptate. Amet fugiat laborum minim mollit ea sit nisi culpa laboris duis veniam elit mollit minim. Aliqua id eu nulla in reprehenderit in dolore tempor quis nulla velit aute fugiat. Sit sint ipsum veniam laboris irure occaecat in mollit id in aute.\r\n",
+      "registered": "2014-01-19T09:09:55 -01:00",
+      "group": 3
+    },
+    {
+      "id": 5,
+      "firstname": "Randi",
+      "surname": "Collins",
+      "gender": "female",
+      "company": "GREEKER",
+      "email": "randicollins@greeker.com",
+      "phone": "+1 (870) 498-2831",
+      "address": "451 Ludlam Place, Fingerville, Wisconsin, 7910",
+      "about": "Incididunt officia voluptate laboris elit cupidatat amet velit. Enim do veniam ad adipisicing occaecat eu mollit ad. Ad pariatur dolore cillum elit duis labore Lorem deserunt magna consectetur est excepteur. Incididunt non excepteur laborum duis esse incididunt sunt nostrud. Dolor exercitation ad minim adipisicing. Sint ullamco tempor duis reprehenderit elit officia sint. Sit anim ad ad cupidatat.\r\n",
+      "registered": "2015-08-08T07:45:11 -02:00",
+      "group": 3
+    },
+    {
+      "id": "57515e4b24bfeba3dcd7b6f6",
+      "firstname": "Haney",
+      "surname": "Farrell",
+      "gender": "male",
+      "company": "UTARIAN",
+      "email": "haneyfarrell@utarian.com",
+      "phone": "+1 (871) 543-2099",
+      "address": "115 Delevan Street, Crenshaw, Marshall Islands, 6837",
+      "about": "Elit aute proident incididunt mollit ad qui ex quis tempor pariatur et in. Voluptate anim ipsum commodo occaecat dolor elit mollit. Fugiat anim dolor nulla sint velit labore ex esse. Fugiat reprehenderit et cillum adipisicing duis consequat Lorem culpa voluptate ipsum.\r\n",
+      "registered": "2015-12-24T10:42:26 -01:00",
+      "group": 2
+    }
+],
+  "groups":[
+    {
+    "id": 1,
+    "title": "Famille",
+    "image": "https://pixabay.com/fr/famille-maman-fille-sourire-775059/"
+    },
+    {
+    "id": 2,
+    "title": "Amis",
+    "image": "https://pixabay.com/fr/facebook-curseur-de-la-souris-76536/"
+    },
+    {
+    "id": 3,
+    "title": "Travail",
+    "image": "https://pixabay.com/fr/apple-imac-ipad-606761/"
+    }]
+}
