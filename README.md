@@ -26,6 +26,14 @@ You will need the following things properly installed on your computer.
 * `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
+## Running json-server
+//This server need a json file, which contains data that it goes expose in RESTful
+// to run this you need to be on the folder which contain the db.json file
+* `json-server db.json`
+* in console this server would expose the resources.
+ * http://localhost:3000/contacts
+ * http://localhost:3000/groups
+
 ### Code Generators
 
 Make use of the many generators for code, try `ember help generate` for more details
