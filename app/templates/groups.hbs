@@ -1,2 +1,12 @@
-
-{{outlet}}
+<div class="row">
+    <div class="col-md-2">
+        <ul class="nav nav-pills nav-stacked">
+          {{#each model as |group|}}
+            {{#active-link}}{{#link-to 'groups.group' group}}{{group.title}} {{/link-to}}{{/active-link}}
+          {{/each}}
+        </ul>
+    </div>
+    <div class="col-md-10">
+      {{outlet}}
+    </div>
+</div>

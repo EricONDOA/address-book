@@ -4,7 +4,7 @@
 import Ember from 'ember';
 
 export default Ember.Route.extend({
-  beforeModel(){
+  beforeModel: function (){
     this.transitionTo('groups');
   }
 });

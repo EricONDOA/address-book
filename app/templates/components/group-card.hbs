@@ -1,0 +1,12 @@
+<h2>{{group.title}}</h2>
+<div class="cropped-image" style="background:url('{{group.image}}');"/>
+
+{{#if shouldConfirm}}
+    <button class="btn btn-danger" {{action 'confirmButtonPressed'}}>Confirmer ?</button>
+    <button class="btn btn-success" {{action 'cancelButtonPressed'}}>Annuler</button>
+{{else}}
+    <button class="btn btn-success" {{action 'deleteButtonPressed'}}>Supprimer</button>
+{{/if}}
+
+{{yield}}
+
